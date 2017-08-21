@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/alibaba/dubbo.svg?branch=master)](https://travis-ci.org/alibaba/dubbo) [![Gitter](https://badges.gitter.im/alibaba/dubbo.svg)](https://gitter.im/alibaba/dubbo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2Fdubbo.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2Fdubbo?ref=badge_shield)
 
 Dubbo is a distributed, high performance RPC framework which empowers applications with service import/export capabilities.
 
@@ -75,3 +76,7 @@ For a more detailed tutorial of this demo, click [here](http://dubbo.io/#quickst
 * Q&A
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2Fdubbo.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnikolatesta%2Fdubbo?ref=badge_large)
